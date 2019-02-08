@@ -1,0 +1,3 @@
+/home/mariette/Documents/Avalam/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mariette/Documents/Avalam/cmake-build-debug/CMakeFiles/Avalam.dir
+/home/mariette/Documents/Avalam/cmake-build-debug/CMakeFiles/edit_cache.dir
